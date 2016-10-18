@@ -35,22 +35,14 @@ public class test {
 		return cost;
 	}
 
-
-
-
 	public static void setCost(double cost) {
 		test.cost = cost;
 	}
 
 
-
-
 	public static double getSign() {
 		return sign;
 	}
-
-
-
 
 	public static void setSign(double sign) {
 		test.sign = sign;
